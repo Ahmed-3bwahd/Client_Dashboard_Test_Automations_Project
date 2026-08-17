@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Client Dashboard Suite">
+    <test name="Client Dashboard Tests">
+        <classes>
+            <class name="com.rahul.academy.client.dashboard.testcases.LoginTest"/>
+            <class name="com.rahul.academy.client.dashboard.testcases.DashboardTest"/>
+            <class name="com.rahul.academy.client.dashboard.testcases.CartTest"/>
+            <class name="com.rahul.academy.client.dashboard.testcases.PaymentTest"/>
+        </classes>
+    </test>
+</suite>

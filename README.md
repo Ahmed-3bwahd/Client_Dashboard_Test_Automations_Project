@@ -2,7 +2,7 @@
 
 
 
-This project contains automated UI tests for the Rahul Shetty Academy Client Dashboard web application. The tests validate core user flows such as login, product selection, cart operations, checkout, and payment.
+This project contains automated UI tests for the e-commerce web application. The tests validate core user flows such as login, product selection, cart operations, checkout, and payment.
 
 
 
